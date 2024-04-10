@@ -1,0 +1,45 @@
+body{
+    /* CSS */
+    background-color: dimgray;
+    color: white; /*text color*/
+    font-family: gothic'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+h5{
+    text-align: center;
+    font-style: italic;
+    background-color: black;
+    font-weight: bold;
+}
+a{
+    color: blanchedalmond;
+}
+a:visited{
+    color: burlywood;
+}
+img{
+    border: 2px solid cadetblue;
+    padding: 3x;
+    margin: 5px;
+    /* centers stuff */
+    /* display: block;
+    margin: auto;*/
+}
+.imgcenter{
+display: block;
+margin: auto;
+}
+.rizz{
+text-align: center;
+margin: auto;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: darkslategray;
+font-style: oblique;
+font-size: 15pt;
+}
+li{
+    text-decoration: dashed;
+}
